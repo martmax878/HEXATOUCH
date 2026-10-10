@@ -82,5 +82,5 @@ dependencies {
     implementation project(':touchcontrols')
     implementation "com.android.support:appcompat-v7:$android_support_version"
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
-    implementation 'com.github.AppIntro:AppIntro:4.2.3'
+    implementation 'com.github.paolorotolo:appintro:4.1.0'
 }
