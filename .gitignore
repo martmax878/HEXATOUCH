@@ -1,0 +1,16 @@
+.gradle
+local.properties
+.idea
+.DS_Store
+build
+*.iml
+captures
+
+*.apk
+/blakestone
+/doom/build
+/doom/release
+/doom/.externalNativeBuild
+/doom/src/main/libs
+/doom/src/main/obj
+/doom/src/main/jni/gzdoom_android
